@@ -67,9 +67,4 @@ button{
     display: flex;
     justify-content: space-evenly;
 }
-/* .clear button {
-    width: 100%;
-} */
-.btn-clear{
-    width: 400px;
-}
+

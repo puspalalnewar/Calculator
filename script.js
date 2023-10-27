@@ -1,4 +1,4 @@
-// (function(){
+
 
 let screen = document.querySelector(".screen");
 let buttons = document.querySelectorAll(".btn");
@@ -25,4 +25,3 @@ clear.addEventListener('click', function(e){
     screen.value = "";
 })
 
-// })();
